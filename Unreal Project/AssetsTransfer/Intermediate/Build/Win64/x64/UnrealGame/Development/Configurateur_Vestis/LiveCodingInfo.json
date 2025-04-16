@@ -1,8 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.Configurateur_Vestis.cpp.obj": [
-			"Configurateur_Vestis.cpp.obj"
-		]
-	}
-}
