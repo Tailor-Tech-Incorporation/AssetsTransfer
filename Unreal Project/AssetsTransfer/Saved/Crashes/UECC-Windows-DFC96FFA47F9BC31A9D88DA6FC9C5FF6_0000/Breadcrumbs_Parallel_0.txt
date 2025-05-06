@@ -1,0 +1,6 @@
+Breadcrumbs 'Parallel'
+ - ParallelDraw (Index: 1, Num: 2)
+ - RenderVelocities
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 52023
